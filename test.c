@@ -3,5 +3,7 @@ int main(){
     int x;
     scanf("%d",&x);
     printf("%d",x);
+    //hyw
+    //hyw
     return 0;
 }
