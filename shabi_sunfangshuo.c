@@ -24,5 +24,6 @@ int main(){
         }
     }
     printf("%s",a[max_id].name);
+    //123456
     return 0;
 }
