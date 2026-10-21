@@ -25,6 +25,6 @@ int main(){
     }
     printf("%s",a[max_id].name);
     //123456
-    //I love my ass hole!!!
+    //I love my ass hole!!!!!!!!!!!!!!
     return 0;
 }
