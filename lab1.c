@@ -56,6 +56,8 @@ int main(){
         }
         else{
             printf("错误的运算符:%c",input[cur]);
+            printf("\n");
+            printf("曹家瑞好帅\n");
             return 0;
         }
     }
